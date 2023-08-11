@@ -1,0 +1,10 @@
+body{
+    background-color: rgb(212, 27, 27);
+}
+header{
+    width: 90%;
+    margin: auto;
+    border-style:solid;
+    border-radius: 10px;
+
+}
